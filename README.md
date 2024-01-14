@@ -5,14 +5,14 @@ Repository for Programming 3's project
 Traccia progetto (directory)
 
 # Code
-VenditaRicambi (.zip)
+VenditaRicambi.zip
 
 # Report
-Relazione_Vendita_Ricambi (.pdf)
-Relazione Vendita Ricambi (.zip)
+Relazione_Vendita_Ricambi.pdf
+Relazione Vendita Ricambi.zip
 
 # Presentation
-Presentazione Progetto Prog 3
+Presentazione Progetto Prog 3.pptx
 
 # Database schema
-Diagramma_DB (.jpeg)
+Diagramma_DB.jpeg
